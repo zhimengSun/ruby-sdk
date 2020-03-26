@@ -54,6 +54,7 @@ module Qiniu
           :end_user               => "endUser"             ,
           :return_url             => "returnUrl"           ,
           :return_body            => "returnBody"          ,
+          :callback_fetch_key     => "callbackFetchKey"    ,
           :callback_url           => "callbackUrl"         ,
           :callback_host          => "callbackHost"        ,
           :callback_body          => "callbackBody"        ,
